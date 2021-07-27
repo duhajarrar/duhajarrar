@@ -1,4 +1,4 @@
-![alt text]()
+
 # About me 📌 
 ### Hi there 👋
 - I'm Duha Jarrar, 5th-year computer engineering student @ Birzeit University 📚
@@ -6,8 +6,9 @@
 - I'm a participant of Google's get ahead programming ⏳
 - I'm very interested in Machine Learning & Ai 📖
 - Currently, I'm training @ ProGineer company 💻
-- 
+
 <!--
+![alt text]()
 **duhajarrar/duhajarrar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +19,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text]()
