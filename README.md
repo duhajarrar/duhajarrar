@@ -3,7 +3,6 @@
 ### Hi there 👋
 - I'm Duha Jarrar, 5th-year computer engineering student @ Birzeit University 📚
 - I'm a CN TA @ Neueomatch Academy ✨
-- I'm a participant of Google's get ahead programming ⏳
 - I'm very interested in Machine Learning & Ai 📖
 - Currently, I'm training @ ProGineer company 💻
 
